@@ -34,4 +34,16 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.j)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
+
+---
+
+> 💡 *“Always learning, always building.”*
+
