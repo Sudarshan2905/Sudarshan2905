@@ -11,7 +11,7 @@
 
 ## 🌱 Currently Learning:
 - 📘 **Electronics Engineering**
-- ⚙️ DevOps, CI/CD, and Cloud Deployment
+- ⚙️ AWS Cloud
 
 ---
 
