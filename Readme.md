@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Sudarshan Herwade
 
+![Profile Views](https://komarev.com/ghpvc/?username=Sudarshan2905&color=blue)
+
+
 🚀 A **Proficient Full Stack Developer (MERN Stack)** from India with a passion for building dynamic, scalable, and user-friendly web applications.
 
 ---
