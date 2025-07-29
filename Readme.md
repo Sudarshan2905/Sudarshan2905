@@ -7,13 +7,10 @@
 
 ---
 
-## 🔭 Currently Working On:
-- 💉 **BloodShare** – A smart blood donation and management platform built using Node.js, MongoDB, and Express
-
 ---
 
 ## 🌱 Currently Learning:
-- 📘 **Electronics Engineering**
+- 📘 **MERN**
 - ⚙️ AWS Cloud
 
 ---
