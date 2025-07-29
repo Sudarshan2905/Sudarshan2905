@@ -1,25 +1,37 @@
-<h1 align="center">Hi 👋, I'm Sudarshan Herwade</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+# 👋 Hi, I'm Sudarshan Herwade
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshan2905&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshan2905" /> </p>
+🚀 A **Proficient Full Stack Developer (MERN Stack)** from India with a passion for building dynamic, scalable, and user-friendly web applications.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudarshan2905" alt="sudarshan2905" /></a> </p>
+---
 
-- 🔭 I’m currently working on **bloodShare**
+## 🔭 Currently Working On:
+- 💉 **BloodShare** – A smart blood donation and management platform built using Node.js, MongoDB, and Express
 
-- 🌱 I’m currently learning **Electronics Engineering**
+---
 
-- 📫 How to reach me **sudarshan.herwade07@gmail.com**
+## 🌱 Currently Learning:
+- 📘 **Electronics Engineering**
+- ⚙️ DevOps, CI/CD, and Cloud Deployment
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 📫 How to Reach Me:
+- 📧 Email: **sudarshan.herwade07@gmail.com**
+- 🔗 GitHub: [@Sudarshan2905](https://github.com/Sudarshan2905)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshan2905&show_icons=true&locale=en&layout=compact" alt="sudarshan2905" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshan2905&show_icons=true&locale=en" alt="sudarshan2905" /></p>
+## 🌐 Connect with Me:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan2905&" alt="sudarshan2905" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sudarshan2905)
+[![Email](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:sudarshan.herwade07@gmail.com)
+
+---
+
+## 🛠️ Tech Stack & Tools:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.j)
